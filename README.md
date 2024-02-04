@@ -9,7 +9,7 @@ This project is a simple REST api utilizing CRUD operations.
 ## Pre-configuration
 - Run the command:
 
-     `npm install`
+     npm
 
 ## Configuration
 - Clone the repository
