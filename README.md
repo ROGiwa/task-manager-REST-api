@@ -7,10 +7,9 @@ A simple CRUD REST api.
 This project is a simple REST api utilizing CRUD operations.
 
 ## Pre-configuration
-- Install express
-- Install mongoose
-- Install nodemon
-- Install dotenv
+- Run the command:
+
+     `npm install`
 
 ## Configuration
 - Clone the repository
